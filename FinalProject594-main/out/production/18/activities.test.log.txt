@@ -1,0 +1,97 @@
+1682371121626 [--log=activities.test.log.txt, --covid=covid_data.csv, --properties=properties.csv, --population=population.csv]
+1682371132619 1
+1682371132619 1
+1682390189267 [--log=activities.test.log.txt, --covid=covid_data.csv, --properties=properties.csv, --population=population.csv]
+1682390495048 [--log=activities.test.log.txt, --covid=covid_data.csv, --properties=properties.csv, --population=population.csv]
+1682390506318 1
+1682390506318 1
+1682390506318 2
+1682390506318 2
+1682390506319 3
+1682390506319 3
+1682390506319 full
+1682390506319 2021-05-01
+1682390506338 4
+1682390506338 4
+1682390506339 19149
+1682390506367 5
+1682390506367 5
+1682390506367 19149
+1682390506385 6
+1682390506385 6
+1682390506385 19149
+1682390506397 0
+1682390506397 0
+1682390506398 [--log=activities.test.log.txt, --covid=covid_data.csv, --properties=properties.csv, --population=population.csv]
+1682390517173 1
+1682390517174 1
+1682390517174 0
+1682390517174 0
+1682390517174 [--log=activities.test.log.txt, --covid=covid_data.csv, --properties=properties.csv, --population=population.csv]
+1682390527893 2
+1682390527893 2
+1682390527893 0
+1682390527893 0
+1682390527894 [--log=activities.test.log.txt, --covid=covid_data.csv, --properties=properties.csv, --population=population.csv]
+1682390538661 3
+1682390538662 3
+1682390538662 full
+1682390538662 2021-05-01
+1682390538671 0
+1682390538671 0
+1682390538672 [--log=activities.test.log.txt, --covid=covid_data.csv, --properties=properties.csv, --population=population.csv]
+1682390572787 [--log=activities.test.log.txt, --covid=covid_data.csv, --properties=properties.csv, --population=population.csv]
+1682390583489 1
+1682390583489 1
+1682390583489 2
+1682390583489 2
+1682390583489 3
+1682390583490 3
+1682390583490 full
+1682390583490 2021-05-01
+1682390583508 4
+1682390583508 4
+1682390583508 19149
+1682390583535 5
+1682390583535 5
+1682390583535 19149
+1682390583551 6
+1682390583552 6
+1682390583552 19149
+1682390583562 0
+1682390583563 0
+1682390583564 [--log=activities.test.log.txt, --covid=covid_data.csv, --properties=properties.csv, --population=population.csv]
+1682390593716 1
+1682390593716 1
+1682390593716 0
+1682390593716 0
+1682390593717 [--log=activities.test.log.txt, --covid=covid_data.csv, --properties=properties.csv, --population=population.csv]
+1682390606193 2
+1682390606193 2
+1682390606193 0
+1682390606193 0
+1682390606194 [--log=activities.test.log.txt, --covid=covid_data.csv, --properties=properties.csv, --population=population.csv]
+1682390616511 3
+1682390616512 3
+1682390616513 full
+1682390616513 2021-05-01
+1682390616521 0
+1682390616522 0
+1682390616522 [--log=activities.test.log.txt, --covid=covid_data.csv, --properties=properties.csv, --population=population.csv]
+1682390627299 4
+1682390627299 4
+1682390627299 19149
+1682390627317 0
+1682390627318 0
+1682390627318 [--log=activities.test.log.txt, --covid=covid_data.csv, --properties=properties.csv, --population=population.csv]
+1682390638881 5
+1682390638881 5
+1682390638881 19149
+1682390638894 0
+1682390638894 0
+1682390638895 [--log=activities.test.log.txt, --covid=covid_data.csv, --properties=properties.csv, --population=population.csv]
+1682390650268 6
+1682390650268 6
+1682390650268 19149
+1682390650271 0
+1682390650271 0

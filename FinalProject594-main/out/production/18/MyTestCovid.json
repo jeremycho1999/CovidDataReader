@@ -1,0 +1,92 @@
+[
+  {
+    "zip_code": 19100,
+    "NEG": 7,
+    "etl_timestamp": "2021-03-25 17:20:02"
+  },
+  {
+    "zip_code": 19101,
+    "NEG": 429,
+    "POS": 88,
+    "hospitalized": 16,
+    "etl_timestamp": "2021-03-25 17:20:02"
+  },
+  {
+    "zip_code": 19102,
+    "NEG": 9109,
+    "POS": 335,
+    "hospitalized": 9,
+    "partially_vaccinated": 1185,
+    "fully_vaccinated": 1145,
+    "etl_timestamp": "2021-03-25"
+  },
+  {
+    "zip_code": 19103,
+    "NEG": 43698,
+    "POS": 1296,
+    "deaths": 39,
+    "hospitalized": 128,
+    "partially_vaccinated": 4844,
+    "fully_vaccinated": 5696,
+    "etl_timestamp": "2021-03-25 17:20:02"
+  },
+
+  {
+    "zip_code": 19104,
+    "NEG": 150126,
+    "POS": 3529,
+    "deaths": 107,
+    "hospitalized": 401,
+    "partially_vaccinated": 8131,
+    "fully_vaccinated": 4135,
+    "etl_timestamp": "2021-03-25 17:20:02"
+  },
+
+
+  {
+    "comment": "zip code with less than 5",
+    "zip_code": 194,
+    "NEG": 150126,
+    "POS": 3529,
+    "deaths": 107,
+    "hospitalized": 401,
+    "partially_vaccinated": 8131,
+    "fully_vaccinated": 4135,
+    "etl_timestamp": "2021-03-25 17:20:02"
+  },
+
+  {
+    "comment": "zip code is string form",
+    "zip_code": "12045",
+    "NEG": 150126,
+    "POS": 3529,
+    "deaths": 107,
+    "hospitalized": 401,
+    "partially_vaccinated": 8131,
+    "fully_vaccinated": 4135,
+    "etl_timestamp": "2021-03-25 17:20:02"
+  },
+  {
+    "comment": "time stamp without dashes",
+    "zip_code": 12046,
+    "NEG": 150126,
+    "POS": 3529,
+    "deaths": 107,
+    "hospitalized": 401,
+    "partially_vaccinated": 8131,
+    "fully_vaccinated": 4135,
+    "etl_timestamp": "2021 03 25 17:20:02"
+  },
+
+  {
+    "comment": "no space between first and second half of timestamp",
+    "zip_code": 12047,
+    "NEG": 150126,
+    "POS": 3529,
+    "deaths": 107,
+    "hospitalized": 401,
+    "partially_vaccinated": 8131,
+    "fully_vaccinated": 4135,
+    "etl_timestamp": "2021-03-2517:20:02"
+  }
+]
